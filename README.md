@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mironalin.github.io/results-summary-component-main/)
+- Live Site URL: [https://mironalin.github.io/results-summary-component-main/](https://mironalin.github.io/results-summary-component-main/)
 
 ### Built with
 
