@@ -199,6 +199,8 @@ span {
 @media(min-width: 735px ) {
     body {
         min-height: 100vh;
+        place-content: center;
+        display: grid;
     }
     .card {
         display: grid;
@@ -212,6 +214,7 @@ span {
 
     .card-header {
         gap: 2rem;
+        border-top-right-radius: 2rem;
     }
 
     .header-text {
